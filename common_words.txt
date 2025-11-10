@@ -214,7 +214,7 @@ Fjord
 Flip-flops
 Flurries
 Foggy
-food
+Food
 Forest
 Forklift
 Fortnight
@@ -235,6 +235,7 @@ Freedom
 Freezing
 Frog
 Frosty
+Fruit
 Frustration
 Gale
 gallery
@@ -247,7 +248,7 @@ Glacier
 Gloves
 glue
 Gold
-Golf Cart
+Golf
 Goose
 Gorilla
 Grapes
@@ -286,8 +287,6 @@ Hope
 Horse
 Hospital
 Hot
-Hot Dog
-Hot spring
 Hotel
 Hour
 House
@@ -366,7 +365,7 @@ moist
 Monkey
 Monsoon
 Month
-Morality
+Moral
 Mosque
 Motorcycle
 Mountain
@@ -411,7 +410,7 @@ Paint
 Paintbrush
 Pajamas
 Palms
-Pancakes
+Pancake
 Panda
 parts
 Pasta
@@ -562,8 +561,8 @@ Teeth
 Temple
 Ten
 Theater
-Thermals
-Thighs
+Thermal
+Thigh
 Thirteen
 Thirty
 Thirty-eight
@@ -578,7 +577,7 @@ Thirty-two
 Three
 Thumbs
 Thunder
-Thunderclouds
+Thundercloud
 Thunderstorm
 Tie
 Tiger
@@ -623,13 +622,14 @@ Underwear
 Utility
 Valley
 Van
+Vegetable
 vehicle
 Vest
 Veterinarian
 villa
 Violet
 Volcano
-Waffles
+Waffle
 Wagon
 Waist
 Waistcoat
